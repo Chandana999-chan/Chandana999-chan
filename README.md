@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=800&lines=Final-Year+CSE+Student;Machine+Learning+Enthusiast;Artificial+Intelligence+Explorer;Generative+AI+Developer;Full+Stack+MERN+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Chandana999-chan&style=for-the-badge)
 
 </div>
 
