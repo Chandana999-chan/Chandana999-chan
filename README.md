@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi 👋, I'm Chandana
@@ -54,8 +53,6 @@ A Full Stack MERN Food Ordering Application featuring:
 🔗 Repository:
 https://github.com/Chandana999-chan/food-app-project-ai
 
-
-
 ---
 
 ## 🤖 Recipe Finder AI
@@ -70,7 +67,6 @@ Features:
 
 🔗 Repository:
 https://github.com/Chandana999-chan/AI_Recipie_Finder
-
 
 ---
 
@@ -187,4 +183,4 @@ https://chandana999-chan.github.io/resume/
 ---
 
 ⭐ If you like my work, don't forget to **Star ⭐ my repositories** and connect with me!
-```
+
