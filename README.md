@@ -84,22 +84,6 @@ https://github.com/Chandana999-chan/autoapply-ai
 
 ---
 
-## 🌐 Portfolio Website
-
-My personal portfolio showcasing:
-
-- Projects
-- Skills
-- Resume
-- Contact Information
-
-🔗 Repository:
-https://github.com/Chandana999-chan/resume
-
-🌐 Live:
-https://chandana999-chan.github.io/resume/
-
----
 
 # 🌱 Currently Learning
 
@@ -167,9 +151,6 @@ https://chandana999-chan.github.io/resume/
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://chandana999-chan.github.io/resume/">
-<img src="https://img.shields.io/badge/Portfolio-success?style=for-the-badge">
-</a>
 
 </p>
 
